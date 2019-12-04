@@ -5,7 +5,7 @@
   "waitForEnterForFilteredHints": true,
   "hideHud": false,
   "keyMappings": "# Insert your preferred key mappings here.\nmap g) lastTab\nmap zbz createTab https://www.bilibili.com/\nmap zzh createTab https://www.zhihu.com/\nmap zbj createTab https://note.youdao.com/web/\nmap zgit createTab https://github.com/\nmap zwyy createTab https://music.163.com/\nmap zyx createTab https://mail.163.com/",
-  "linkHintCharacters": "fjdkslaghweruj",
+  "linkHintCharacters": "fjdkslaghweru",
   "linkHintNumbers": "0123456789",
   "newTabUrl": "https://www.baidu.com/",
   "nextPatterns": "next,more,newer,>,›,→,»,≫,>>",
