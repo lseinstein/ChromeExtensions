@@ -9,7 +9,7 @@
 
 ## 插件事项
 ### Vimium
-&emsp;&emsp;vim快捷键风格的浏览器快捷键插件
+&emsp;&emsp;vim快捷键风格的浏览器快捷键插件  
 &emsp;&emsp;vimium-options.json是配置文件
 ### GoogleAccessHelper
 &emsp;&emsp;谷歌访问助手
