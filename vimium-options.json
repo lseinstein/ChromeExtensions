@@ -4,7 +4,7 @@
   "filterLinkHints": false,
   "waitForEnterForFilteredHints": true,
   "hideHud": false,
-  "keyMappings": "# Insert your preferred key mappings here.\nmap g) lastTab\nunmap h\nmap h previousTab\nunmap l\nmap l nextTab\nunmap J\nmap J scrollFullPageDown\nunmap K\nmap K scrollFullPageUp\n\n\nmap zbz createTab https://www.bilibili.com/\nmap zzh createTab https://www.zhihu.com/\nmap zbj createTab https://note.youdao.com/web/\nmap zgit createTab https://github.com/\nmap zgt createTab https://github.com/trending\nmap zhg createTab https://hellogithub.com/\nmap zyyy createTab https://music.163.com/\nmap zyx createTab https://mail.163.com/",
+  "keyMappings": "# Insert your preferred key mappings here.\nmap g) lastTab\nunmap h\nmap h previousTab\nunmap l\nmap l nextTab\nunmap J\nmap J scrollPageDown\nunmap K\nmap K scrollPageUp\n\n\nmap zbz createTab https://www.bilibili.com/\nmap zzh createTab https://www.zhihu.com/\nmap zbj createTab https://note.youdao.com/web/\nmap zgit createTab https://github.com/\nmap zgt createTab https://github.com/trending\nmap zhg createTab https://hellogithub.com/\nmap zyyy createTab https://music.163.com/\nmap zyx createTab https://mail.163.com/",
   "linkHintCharacters": "fjdkslaghweru",
   "linkHintNumbers": "0123456789",
   "newTabUrl": "https://www.google.com",
